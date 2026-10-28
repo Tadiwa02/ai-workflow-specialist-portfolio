@@ -1,0 +1,7 @@
+order_id,customer,email,product,quantity,unit_price,status
+1001,Chipo,chipo@example.com,Cupcakes,2,12.50,paid
+1002,Tariro,,Birthday Cake,1,45.00,pending
+1003,Rudo,rudo@example.com,Pastry Box,0,18.00,paid
+1004,Tawanda,tawanda@example.com,Meat Platter,3,25.00,paid
+1005,Kudzi,kudzi@example.com,,1,10.00,pending
+1006,Nyasha,nyasha@example.com,Brownies,2,-5.00,paid
